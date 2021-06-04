@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "InputDuck",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about my journey as a web developer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Web Developer in Progress.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,7 +14,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Anton Watson",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
   }
