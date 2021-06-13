@@ -28,7 +28,17 @@
       {{ content | safe }}
     </main>
 
-    <footer>&copy;2021 Inputduck</footer>
+    <footer id="foot">
+    <style>
+      #foot{
+        background-color: silver;
+        color: maroon;
+        border-top: black 1px solid;
+        padding-left: 20px;
+      }
+    </style>
+    &copy;2021 Inputduck
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
